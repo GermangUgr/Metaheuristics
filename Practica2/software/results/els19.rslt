@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/els19.dat // DIMENSION: 19 // OPTIMO: 17212548
+
+Greedy -> Desviacion: 124.416 & 4.024e-06
+
+LocalSearch -> Desviacion: 35.0829 & 0.000216411
+
+SA -> Desviacion: 34.624 & 0.0041055
+
+GRASP -> Desviacion: 3.54704 & 0.00580337
+
+ILS -> Desviacion: 6.14337 & 0.00284572
+
+BMS -> Desviacion: 3.85076 & 0.00375315
+
+ILSSA -> Desviacion: 15.0306 & 0.0929374

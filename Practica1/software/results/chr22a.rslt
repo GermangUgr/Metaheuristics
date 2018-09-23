@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/chr22a.dat // DIMENSION: 22 // OPTIMO: 6156
+
+Greedy -> Desviacion: 119.916 Duracion: 5.4012e-06
+
+LocalSearch1 -> Desviacion: 13.9766 Duracion: 0.00023422
+
+LocalSearch2 -> Desviacion: 13.9766 Duracion: 0.00014179
+
+AGG_Position -> Desviacion: 12.2937 Duracion: 0.0410491
+
+AGG_OX -> Desviacion: 12.2872 Duracion: 0.0675105
+
+AGE_Position -> Desviacion: 13.8012 Duracion: 0.0586547
+
+AGE_OX -> Desviacion: 13.3073 Duracion: 0.0808641
+
+AM_Full -> Desviacion: 3.92463 Duracion: 0.041365
+
+AM_Sub -> Desviacion: 6.06238 Duracion: 0.0406538
+
+AM_Elite -> Desviacion: 9.87005 Duracion: 0.0406323
+

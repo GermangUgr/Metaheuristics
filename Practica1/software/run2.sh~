@@ -1,0 +1,41 @@
+#!/bin/bash
+
+./bin/mainGeneral data/chr20b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/chr22a.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/els19.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/esc32b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/kra30b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/lipa90b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/nug25.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko56.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko64.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko72.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko100a.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko100b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko100c.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko100d.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/sko100e.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/tai30b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/tai50b.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/tai60a.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/tai256c.dat >> resultsDesv/$1
+
+./bin/mainGeneral data/tho150.dat >> resultsDesv/$1

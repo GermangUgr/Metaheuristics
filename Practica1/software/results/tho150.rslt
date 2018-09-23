@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/tho150.dat // DIMENSION: 150 // OPTIMO: 8133398
+
+Greedy -> Desviacion: 17.14 Duracion: 0.000110379
+
+LocalSearch1 -> Desviacion: 1.92728 Duracion: 0.186664
+
+LocalSearch2 -> Desviacion: 1.92728 Duracion: 0.161319
+
+AGG_Position -> Desviacion: 4.27383 Duracion: 1.34794
+
+AGG_OX -> Desviacion: 4.36607 Duracion: 1.85799
+
+AGE_Position -> Desviacion: 4.73633 Duracion: 1.34937
+
+AGE_OX -> Desviacion: 4.46311 Duracion: 1.85986
+
+AM_Full -> Desviacion: 1.56488 Duracion: 2.26925
+
+AM_Sub -> Desviacion: 1.5162 Duracion: 1.81767
+
+AM_Elite -> Desviacion: 1.70246 Duracion: 1.85576
+

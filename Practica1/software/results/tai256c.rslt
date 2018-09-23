@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/tai256c.dat // DIMENSION: 256 // OPTIMO: 44759294
+
+Greedy -> Desviacion: 120.481 Duracion: 0.000297791
+
+LocalSearch1 -> Desviacion: 0.385985 Duracion: 0.500842
+
+LocalSearch2 -> Desviacion: 0.385985 Duracion: 0.397586
+
+AGG_Position -> Desviacion: 1.25316 Duracion: 4.04613
+
+AGG_OX -> Desviacion: 1.30089 Duracion: 5.15798
+
+AGE_Position -> Desviacion: 1.27122 Duracion: 4.07836
+
+AGE_OX -> Desviacion: 1.0706 Duracion: 5.16952
+
+AM_Full -> Desviacion: 0.352731 Duracion: 11.48
+
+AM_Sub -> Desviacion: 0.372295 Duracion: 7.36293
+
+AM_Elite -> Desviacion: 0.364462 Duracion: 7.50044
+

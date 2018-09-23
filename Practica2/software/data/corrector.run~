@@ -1,0 +1,15 @@
+#!/bin/bash
+
+./ExeCorrector sko100a.dat > corregidos/sko100b.dat
+./ExeCorrector sko100b.dat > corregidos/sko100b.dat
+./ExeCorrector sko100c.dat > corregidos/sko100b.dat
+./ExeCorrector sko100d.dat > corregidos/sko100b.dat
+./ExeCorrector sko100e.dat > corregidos/sko100b.dat
+./ExeCorrector tai30b.dat > corregidos/tai30b.dat
+./ExeCorrector tai50b.dat > corregidos/tai50b.dat
+./ExeCorrector tai60a.dat > corregidos/tai60a.dat
+./ExeCorrector tai256c.dat > corregidos/tai256c.dat
+./ExeCorrector tho150.dat > corregidos/tho150.dat
+
+
+

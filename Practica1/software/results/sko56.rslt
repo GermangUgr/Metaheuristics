@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/sko56.dat // DIMENSION: 56 // OPTIMO: 34458
+
+Greedy -> Desviacion: 19.2931 Duracion: 2.31254e-05
+
+LocalSearch1 -> Desviacion: 2.43891 Duracion: 0.00553257
+
+LocalSearch2 -> Desviacion: 2.43891 Duracion: 0.00438899
+
+AGG_Position -> Desviacion: 3.7019 Duracion: 0.210553
+
+AGG_OX -> Desviacion: 2.85101 Duracion: 0.28634
+
+AGE_Position -> Desviacion: 3.96773 Duracion: 0.230451
+
+AGE_OX -> Desviacion: 4.53422 Duracion: 0.29572
+
+AM_Full -> Desviacion: 1.24674 Duracion: 0.264691
+
+AM_Sub -> Desviacion: 1.85269 Duracion: 0.231599
+
+AM_Elite -> Desviacion: 1.93859 Duracion: 0.231222
+

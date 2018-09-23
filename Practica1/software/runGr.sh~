@@ -1,0 +1,83 @@
+#!/bin/bash
+
+if [ $1 == "best" ];  then
+
+	bin/mainAGGPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AGGPosBest.gr
+
+	bin/mainAGGOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AGGOXBest.gr
+
+	bin/mainAGEPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AGEPosBest.gr
+
+	bin/mainAGEOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AGEOXBest.gr
+
+	bin/mainAMFull data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AMFullBest.gr
+
+	bin/mainAMSub data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AMSubBest.gr
+
+	bin/mainAMElite data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Best/AMEliteBest.gr
+
+elif [ $1 == "worst" ];  then
+
+	bin/mainAGGPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AGGPosWorst.gr
+
+	bin/mainAGGOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AGGOXWorst.gr
+
+	bin/mainAGEPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AGEPosWorst.gr
+
+	bin/mainAGEOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AGEOXWorst.gr
+
+	bin/mainAMFull data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AMFullWorst.gr
+
+	bin/mainAMSub data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AMSubWorst.gr
+
+	bin/mainAMElite data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Worst/AMEliteWorst.gr
+
+elif [ $1 == "worstM5" ];  then
+
+	bin/mainAGGPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AGGPosWorstM5.gr
+
+	bin/mainAGGOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AGGOXWorstM5.gr
+
+	bin/mainAGEPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AGEPosWorstM5.gr
+
+	bin/mainAGEOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AGEOXWorstM5.gr
+
+	bin/mainAMFull data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AMFullWorstM5.gr
+
+	bin/mainAMSub data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AMSubWorstM5.gr
+
+	bin/mainAMElite data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/WorstM5/AMEliteWorstM5.gr
+
+elif [ $1 == "diff" ];  then
+
+	bin/mainAGGPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AGGPosDiffs.gr
+
+	bin/mainAGGOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AGGOXDiffs.gr
+
+	bin/mainAGEPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AGEPosDiffs.gr
+
+	bin/mainAGEOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AGEOXDiffs.gr
+
+	bin/mainAMFull data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AMFullDiffs.gr
+
+	bin/mainAMSub data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AMSubDiffs.gr
+
+	bin/mainAMElite data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Diffs/AMEliteDiffs.gr
+
+elif [ $1 == "desv" ];  then
+
+	bin/mainAGGPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AGGPosDesv.gr
+
+	bin/mainAGGOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AGGOXDesv.gr
+
+	bin/mainAGEPos data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AGEPosDesv.gr
+
+	bin/mainAGEOX data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AGEOXDesv.gr
+
+	bin/mainAMFull data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AMFullDesv.gr
+
+	bin/mainAMSub data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AMSubDesv.gr
+
+	bin/mainAMElite data/sko100d.dat 5 0.6 0.001 50000 50 > graphs/Desv/AMEliteDesv.gr
+
+fi

@@ -1,0 +1,16 @@
+NOMBRE DEL ARCHIVO: data/esc32b.dat // DIMENSION: 32 // OPTIMO: 168
+
+Greedy -> Desviacion: 90.4762 & 8.2568e-06
+
+LocalSearch -> Desviacion: 30 & 0.000639765
+
+SA -> Desviacion: 13.8095 & 0.00143775
+
+GRASP -> Desviacion: 12.8571 & 0.0235059
+
+ILS -> Desviacion: 11.4286 & 0.00975116
+
+BMS -> Desviacion: 11.9048 & 0.013808
+
+ILSSA -> Desviacion: 0 & 0.0586142
+

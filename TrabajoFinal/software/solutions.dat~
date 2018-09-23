@@ -1,0 +1,64 @@
+##########################################################################################
+######### Funcion 1: Shifted sphere #########
+('Valor: ', -450.0)
+('Vector: ', [-39.311900067658179, 58.899900113505161, -46.322399968039072, -74.651500014804157, -16.799700035583303, -80.54410000128162, -10.593500055467727, 24.969399975007644, 89.838399974385169, 9.1118999542202879])
+######### Funcion 2: Shifted double-sum #########
+('Valor: ', -449.99999999999994)
+######### Funcion 3: Shifted rotated high conditioned elliptic function #########
+('Valor: ', 263796.80809091282)
+######### Funcion 4: Shifted double-sum with noise #########
+('Valor: ', -751593.68841413106)
+######### Funcion 5: Schwefels problem 2.6 with global optimum on bounds #########
+('Valor: ', -39.602071204910317)
+######### Funcion 6: Shifted Rosenbrocks function #########
+('Valor: ', 396.78197773753374)
+######### Funcion 8: Shifted rotated Ackleys function with global optimum on bounds #########
+('Valor: ', -119.97084543267823)
+######### Funcion 9: Shifted Rastrigins function #########
+('Valor: ', -289.20678458969013)
+######### Funcion 10: Shifted rotated Rastrigins function #########
+('Valor: ', -306.12100781885636)
+######### Funcion 11: Shifted rotated Weierstrass function #########
+('Valor: ', 95.01415656243235)
+######### Funcion 12: Fletcher and Powells problem #########
+('Valor: ', 252.25411963795443)
+######### Funcion 13: Rosenbrocks function #########
+('Valor: ', -128.24297188707203)
+######### Funcion 14: Shifted rotated expanded Schaffers F6 #########
+('Valor: ', -297.2901786755985)
+######### Funcion 15: Hybrid composition function F15 #########
+('Valor: ', 400.49420976229891)
+######### Funcion 16: Rotated hybrid composition function #########
+('Valor: ', 258.91504623313369)
+######### Funcion 17: Rotated hybrid composition function F16 with noise #########
+('Valor: ', 212.06857148846751)
+######### Funcion 18: Rotated hybrid composition function F18 #########
+('Valor: ', 921.67262355052389)
+######### Funcion 19: F18, but with a narrow basin for the global optimum #########
+('Valor: ', 310.0)
+######### Funcion 20: Rotated hybrid composition function F18 with global optimum on bounds #########
+('Valor: ', 379.9329615344223)
+######### Funcion 21: Rotated hybrid composition function F21 #########
+('Valor: ', 860.00001261402508)
+######### Funcion 22: Rotated hybrid composition function F21 with high condition number matrix. #########
+('Valor: ', 1128.402921632194)
+######### Funcion 23: Non-Continuous rotated hybrid composition function F21 #########
+('Valor: ', 919.46831079132016)
+######### Funcion 24: Rotated hybrid composition function F24 #########
+('Valor: ', 460.0000000000033)
+##########################################################################################
+######### Funcion 1: Shifted sphere #########
+('Valor: ', -449.41928590780202)
+('Vector: ', [-39.45644735814669, 58.755087861957911, -46.452293763790991, -74.790935814460042, -16.940132322151044, -80.681153469207416, -10.733951759748132, 24.822129784129789, 89.726881366933569, 8.9738479173408514, -10.881957589818727, -28.002501911650011, -12.72489020897023, 7.4534925698394607, 74.684696348970206, 68.377370845996595, -53.578340271189063, 78.70479135647625, -68.745155291002803, 63.615511650017417, 31.20211696625752, -37.620481283615916, 33.756761984888158, -88.948491905524776, -78.924654917552374, -66.634465304680162, 44.044614769800482, 18.260347364604268, 26.385207608772667, 84.32268365175716])
+######### Funcion 2: Shifted double-sum #########
+('Valor: ', -448.87390040175148)
+######### Funcion 3: Shifted rotated high conditioned elliptic function #########
+('Valor: ', 66708325.095570676)
+######### Funcion 4: Shifted double-sum with noise #########
+('Valor: ', -10334645.077826345)
+######### Funcion 5: Schwefels problem 2.6 with global optimum on bounds #########
+('Valor: ', 15097.920297286422)
+######### Funcion 6: Shifted Rosenbrocks function #########
+('Valor: ', 94248.514460162216)
+######### Funcion 8: Shifted rotated Ackleys function with global optimum on bounds #########
+('Valor: ', -119.

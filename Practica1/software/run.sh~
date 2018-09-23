@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./bin/mainLS $1 $2
+./bin/mainGreedy $1 $2
+./bin/mainAGGPos $1 $2
+./bin/mainAGGOX $1 $2
+./bin/mainAGEPos $1 $2
+./bin/mainAGEOX $1 $2

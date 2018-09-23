@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/sko64.dat // DIMENSION: 64 // OPTIMO: 48498
+
+Greedy -> Desviacion: 17.6255 & 2.8862e-05
+
+LocalSearch -> Desviacion: 1.99183 & 0.00904867
+
+SA -> Desviacion: 3.45334 & 0.00338935
+
+GRASP -> Desviacion: 1.40294 & 0.306594
+
+ILS -> Desviacion: 0.780238 & 0.166642
+
+BMS -> Desviacion: 1.34603 & 0.199305
+
+ILSSA -> Desviacion: 0.848695 & 0.0784559

@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/kra30b.dat // DIMENSION: 30 // OPTIMO: 91420
+
+Greedy -> Desviacion: 29.6106 Duracion: 6.6604e-06
+
+LocalSearch1 -> Desviacion: 5.88711 Duracion: 0.000611319
+
+LocalSearch2 -> Desviacion: 5.88711 Duracion: 0.000432093
+
+AGG_Position -> Desviacion: 5.40144 Duracion: 0.0662267
+
+AGG_OX -> Desviacion: 5.46051 Duracion: 0.103523
+
+AGE_Position -> Desviacion: 6.18902 Duracion: 0.0834561
+
+AGE_OX -> Desviacion: 5.28768 Duracion: 0.114954
+
+AM_Full -> Desviacion: 1.352 Duracion: 0.0730929
+
+AM_Sub -> Desviacion: 2.2949 Duracion: 0.0700994
+
+AM_Elite -> Desviacion: 3.8263 Duracion: 0.0698318
+

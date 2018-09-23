@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/sko72.dat // DIMENSION: 72 // OPTIMO: 66256
+
+Greedy -> Desviacion: 15.6424 Duracion: 2.9231e-05
+
+LocalSearch1 -> Desviacion: 2.58573 Duracion: 0.0119184
+
+LocalSearch2 -> Desviacion: 2.58573 Duracion: 0.00965568
+
+AGG_Position -> Desviacion: 3.13209 Duracion: 0.342913
+
+AGG_OX -> Desviacion: 3.49191 Duracion: 0.517211
+
+AGE_Position -> Desviacion: 3.86803 Duracion: 0.365464
+
+AGE_OX -> Desviacion: 3.3923 Duracion: 0.52479
+
+AM_Full -> Desviacion: 1.18148 Duracion: 0.488985
+
+AM_Sub -> Desviacion: 1.38252 Duracion: 0.388485
+
+AM_Elite -> Desviacion: 1.70188 Duracion: 0.381693
+

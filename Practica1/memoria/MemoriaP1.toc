@@ -1,0 +1,36 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{4}{section.1}
+\contentsline {section}{\numberline {2}M\IeC {\'e}todos de resoluci\IeC {\'o}n del problema}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Funci\IeC {\'o}n objetivo}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Factorizaci\IeC {\'o}n de la funci\IeC {\'o}n objetivo}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Operador de mutaci\IeC {\'o}n y generaci\IeC {\'o}n de vecinos}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Generaci\IeC {\'o}n de soluciones aleatorias}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Operador de mutaci\IeC {\'o}n}{6}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Operador de selecci\IeC {\'o}n en los Algoritmos Gen\IeC {\'e}ticos}{7}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Operadores de cruce}{8}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}Operador de cruce basado en posiciones comunes}{8}{subsubsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.2}Operador de cruce OX}{9}{subsubsection.2.7.2}
+\contentsline {section}{\numberline {3}Algoritmo de B\IeC {\'u}squeda Local}{10}{section.3}
+\contentsline {section}{\numberline {4}Algoritmos Gen\IeC {\'e}ticos Generacionales}{11}{section.4}
+\contentsline {section}{\numberline {5}Algoritmos Gen\IeC {\'e}ticos Estacionarios}{13}{section.5}
+\contentsline {section}{\numberline {6}Algoritmos Mem\IeC {\'e}ticos}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}Algoritmo Mem\IeC {\'e}tico de mejora completa (AM - (10, 1.0))}{15}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Algoritmo Mem\IeC {\'e}tico de mejora parcial aleatoria (AM - (10, 0.1))}{16}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Algoritmo Mem\IeC {\'e}tico de mejora elitista (AM - (10, 0.1 mej))}{17}{subsection.6.3}
+\contentsline {section}{\numberline {7}Algoritmo de comparaci\IeC {\'o}n: Algoritmo Greedy}{18}{section.7}
+\contentsline {section}{\numberline {8}Procedimiento considerado para el desarrollo de la pr\IeC {\'a}ctica}{19}{section.8}
+\contentsline {section}{\numberline {9}Experimentos y An\IeC {\'a}lisis de resultados}{19}{section.9}
+\contentsline {subsection}{\numberline {9.1}Descripci\IeC {\'o}n de par\IeC {\'a}metros y casos considerados}{19}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}An\IeC {\'a}lisis de resultados del algoritmo Greedy}{19}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}An\IeC {\'a}lisis de resultados de la B\IeC {\'u}squeda Local}{20}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}An\IeC {\'a}lisis de resultados del Algoritmo Gen\IeC {\'e}tico Generacional con cruce por posici\IeC {\'o}n}{21}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}An\IeC {\'a}lisis de resultados del Algoritmo Gen\IeC {\'e}tico Generacional con cruce OX}{22}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}An\IeC {\'a}lisis de resultados del Algoritmo Gen\IeC {\'e}tico Estacionario con cruce por posici\IeC {\'o}n}{23}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.7}An\IeC {\'a}lisis de resultados del Algoritmo Gen\IeC {\'e}tico Estacionario con cruce OX}{23}{subsection.9.7}
+\contentsline {subsection}{\numberline {9.8}An\IeC {\'a}lisis de los resultados de los Algoritmos Mem\IeC {\'e}ticos}{24}{subsection.9.8}
+\contentsline {subsubsection}{\numberline {9.8.1}An\IeC {\'a}lisis de resultados}{24}{subsubsection.9.8.1}
+\contentsline {subsubsection}{\numberline {9.8.2}Tabla de resultados del Algoritmo Mem\IeC {\'e}tico con mejora completa}{25}{subsubsection.9.8.2}
+\contentsline {subsubsection}{\numberline {9.8.3}Tabla de resultados del Algoritmo Mem\IeC {\'e}tico con mejora parcial}{26}{subsubsection.9.8.3}
+\contentsline {subsubsection}{\numberline {9.8.4}Tabla de resultados del Algoritmo Mem\IeC {\'e}tico con mejora elitista}{26}{subsubsection.9.8.4}
+\contentsline {subsection}{\numberline {9.9}An\IeC {\'a}lisis de resultados generales}{27}{subsection.9.9}
+\contentsline {section}{\numberline {10}Manual de usuario}{27}{section.10}

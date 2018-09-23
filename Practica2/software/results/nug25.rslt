@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/nug25.dat // DIMENSION: 25 // OPTIMO: 3744
+
+Greedy -> Desviacion: 18.5363 & 5.6758e-06
+
+LocalSearch -> Desviacion: 5.26709 & 0.000328716
+
+SA -> Desviacion: 3.19444 & 0.00029781
+
+GRASP -> Desviacion: 1.13248 & 0.0129635
+
+ILS -> Desviacion: 0.459402 & 0.00637476
+
+BMS -> Desviacion: 0.747863 & 0.00836337
+
+ILSSA -> Desviacion: 0.512821 & 0.0095529

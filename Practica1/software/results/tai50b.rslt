@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/tai50b.dat // DIMENSION: 50 // OPTIMO: 458821517
+
+Greedy -> Desviacion: 71.8325 Duracion: 1.58438e-05
+
+LocalSearch1 -> Desviacion: 7.09251 Duracion: 0.00382194
+
+LocalSearch2 -> Desviacion: 7.09251 Duracion: 0.00302884
+
+AGG_Position -> Desviacion: 7.38738 Duracion: 0.170895
+
+AGG_OX -> Desviacion: 6.7356 Duracion: 0.238293
+
+AGE_Position -> Desviacion: 7.50317 Duracion: 0.185312
+
+AGE_OX -> Desviacion: 7.84641 Duracion: 0.249904
+
+AM_Full -> Desviacion: 1.76993 Duracion: 0.220593
+
+AM_Sub -> Desviacion: 3.07057 Duracion: 0.186003
+
+AM_Elite -> Desviacion: 3.54683 Duracion: 0.185252
+

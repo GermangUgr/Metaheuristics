@@ -1,0 +1,13 @@
+set terminal png
+
+set output 'filename'
+
+plot 'Best/AGGPosBest.gr' title 'Best' with lines linewidth 4 lc "blue", 'Worst/AGGPosWorst.gr' title 'Worst' with lines linewidth 3 lc "red"
+
+
+plot 'Best/AGEPosBest.gr' using ($1/1000.):2 title 'Best' with lines cl "black", 'Worst/AGEPosWorst.gr' using ($1/1000.):2 title 'Worst' with lines cl "cyan", 'WorstM5/AGEPosWorstM5.gr' using ($1/1000.):2 title 'Worst-5' with lines cl "orange"
+
+plot 'Diffs/AMFullDiffs.gr' using ($1/1000.):2 title 'AMFull' with lines linewidth 2, 'Diffs/AMSubDiffs.gr' using ($1/1000.):2 title 'AMSub' with lines linewidth 2, 'Diffs/AMEliteDiffs.gr' using ($1/1000.):2 title 'AMElite' with lines linewidth 2
+
+
+plot 'Desv/AGGPosDesv.gr' using ($1/1000.):2 title 'AGGPos' with lines linewidth 2, 'Desv/AGGOXDesv.gr' using ($1/1000.):2 title 'AGGOX' with lines linewidth 2, 'Desv/AGEPosDesv.gr' using ($1/1000.):2 title 'AGEPos' with lines linewidth 2, 'Desv/AGEOXDesv.gr' using ($1/1000.):2 title 'AGEOX' with lines linewidth 2

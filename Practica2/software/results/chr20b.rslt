@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/chr20b.dat // DIMENSION: 20 // OPTIMO: 2298
+
+Greedy -> Desviacion: 365.796 & 4.6698e-06
+
+LocalSearch -> Desviacion: 49.121 & 0.000125524
+
+SA -> Desviacion: 42.2802 & 0.00138455
+
+GRASP -> Desviacion: 19.0775 & 0.00536434
+
+ILS -> Desviacion: 17.5457 & 0.00251431
+
+BMS -> Desviacion: 21.114 & 0.00328406
+
+ILSSA -> Desviacion: 17.5979 & 0.0720418

@@ -1,0 +1,16 @@
+NOMBRE DEL ARCHIVO: data/tho150.dat // DIMENSION: 150 // OPTIMO: 8133398
+
+Greedy -> Desviacion: 17.14 & 0.000113669
+
+LocalSearch -> Desviacion: 1.92728 & 0.186149
+
+SA -> Desviacion: 3.5706 & 0.019035
+
+GRASP -> Desviacion: 1.3544 & 6.80024
+
+ILS -> Desviacion: 0.891662 & 3.40809
+
+BMS -> Desviacion: 1.33283 & 4.09898
+
+ILSSA -> Desviacion: 0.965382 & 0.794868
+

@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/sko64.dat // DIMENSION: 64 // OPTIMO: 48498
+
+Greedy -> Desviacion: 17.6255 Duracion: 2.92132e-05
+
+LocalSearch1 -> Desviacion: 1.99183 Duracion: 0.00906393
+
+LocalSearch2 -> Desviacion: 1.99183 Duracion: 0.00727214
+
+AGG_Position -> Desviacion: 3.2356 Duracion: 0.275173
+
+AGG_OX -> Desviacion: 4.09584 Duracion: 0.385485
+
+AGE_Position -> Desviacion: 4.27069 Duracion: 0.286939
+
+AGE_OX -> Desviacion: 4.37626 Duracion: 0.395452
+
+AM_Full -> Desviacion: 1.21242 Duracion: 0.37012
+
+AM_Sub -> Desviacion: 1.17861 Duracion: 0.303789
+
+AM_Elite -> Desviacion: 1.71306 Duracion: 0.303384
+

@@ -1,0 +1,10 @@
+Este directorio contiene los archivos ejecutables asociados a cada algoritmo, así como
+un ejecutable mainGeneral que ejecuta todos los aalgoritmos y almacena los resultados en el
+fichero results que cuelga del raiz
+
+Cada algoritmo dispone de un ejecutable cuyo nombre corresponde a "mainNombreAlmgoritmo"
+
+Al ejecutar cada archivo, si no se proporcionan el número de argumentos correcto, se detiene la ejecución
+y se informa por pantalla de su uso correcto
+
+Ejemplo de uso: > bin/<mainNombre> <instancia> <semilla> <ProbabilidadCruce> <ProbabilidadMutacion> <EvaluacionesMaximas> <TamañoPoblacion>

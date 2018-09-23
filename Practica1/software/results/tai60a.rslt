@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/tai60a.dat // DIMENSION: 60 // OPTIMO: 7205962
+
+Greedy -> Desviacion: 15.8156 Duracion: 2.65082e-05
+
+LocalSearch1 -> Desviacion: 4.3088 Duracion: 0.00605683
+
+LocalSearch2 -> Desviacion: 4.3088 Duracion: 0.00477345
+
+AGG_Position -> Desviacion: 5.51142 Duracion: 0.242483
+
+AGG_OX -> Desviacion: 5.35413 Duracion: 0.351724
+
+AGE_Position -> Desviacion: 6.04028 Duracion: 0.256725
+
+AGE_OX -> Desviacion: 5.76926 Duracion: 0.361511
+
+AM_Full -> Desviacion: 3.53093 Duracion: 0.325737
+
+AM_Sub -> Desviacion: 3.39214 Duracion: 0.269486
+
+AM_Elite -> Desviacion: 4.0533 Duracion: 0.265523
+

@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/els19.dat // DIMENSION: 19 // OPTIMO: 17212548
+
+Greedy -> Desviacion: 124.416 Duracion: 3.5196e-06
+
+LocalSearch1 -> Desviacion: 35.0829 Duracion: 0.000180711
+
+LocalSearch2 -> Desviacion: 35.0829 Duracion: 0.00013759
+
+AGG_Position -> Desviacion: 16.1212 Duracion: 0.0333007
+
+AGG_OX -> Desviacion: 19.7732 Duracion: 0.0573914
+
+AGE_Position -> Desviacion: 17.0068 Duracion: 0.0506039
+
+AGE_OX -> Desviacion: 17.3905 Duracion: 0.0697754
+
+AM_Full -> Desviacion: 6.0726 Duracion: 0.0307803
+
+AM_Sub -> Desviacion: 10.6038 Duracion: 0.0325693
+
+AM_Elite -> Desviacion: 14.8924 Duracion: 0.0324725
+

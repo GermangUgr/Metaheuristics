@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/tai30b.dat // DIMENSION: 30 // OPTIMO: 637117113
+
+Greedy -> Desviacion: 117.729 & 7.366e-06
+
+LocalSearch -> Desviacion: 18.0639 & 0.000718593
+
+SA -> Desviacion: 11.4635 & 0.000530498
+
+GRASP -> Desviacion: 0.436801 & 0.0257043
+
+ILS -> Desviacion: 1.49411 & 0.0137457
+
+BMS -> Desviacion: 1.23248 & 0.0182881
+
+ILSSA -> Desviacion: 2.59364 & 0.0094932

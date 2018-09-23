@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/tai256c.dat // DIMENSION: 256 // OPTIMO: 44759294
+
+Greedy -> Desviacion: 120.481 & 0.000302592
+
+LocalSearch -> Desviacion: 0.385985 & 0.488323
+
+SA -> Desviacion: 5.35515 & 0.00195129
+
+GRASP -> Desviacion: 0.312504 & 39.7781
+
+ILS -> Desviacion: 0.290796 & 7.71419
+
+BMS -> Desviacion: 0.286678 & 13.1895
+
+ILSSA -> Desviacion: 2.35326 & 0.0519746

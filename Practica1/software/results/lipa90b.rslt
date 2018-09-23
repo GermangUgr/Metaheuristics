@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/lipa90b.dat // DIMENSION: 90 // OPTIMO: 12490441
+
+Greedy -> Desviacion: 29.0592 Duracion: 4.29456e-05
+
+LocalSearch1 -> Desviacion: 21.5846 Duracion: 0.0264508
+
+LocalSearch2 -> Desviacion: 21.5846 Duracion: 0.02153
+
+AGG_Position -> Desviacion: 22.7201 Duracion: 0.511887
+
+AGG_OX -> Desviacion: 22.7643 Duracion: 0.754914
+
+AGE_Position -> Desviacion: 23.1209 Duracion: 0.524924
+
+AGE_OX -> Desviacion: 22.9082 Duracion: 0.771814
+
+AM_Full -> Desviacion: 21.2499 Duracion: 0.838309
+
+AM_Sub -> Desviacion: 21.2084 Duracion: 0.608386
+
+AM_Elite -> Desviacion: 21.4071 Duracion: 0.613051
+

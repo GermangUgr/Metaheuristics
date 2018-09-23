@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/chr20b.dat // DIMENSION: 20 // OPTIMO: 2298
+
+Greedy -> Desviacion: 365.796 Duracion: 4.4816e-06
+
+LocalSearch1 -> Desviacion: 49.121 Duracion: 0.000135618
+
+LocalSearch2 -> Desviacion: 49.121 Duracion: 8.12706e-05
+
+AGG_Position -> Desviacion: 39.5822 Duracion: 0.0355741
+
+AGG_OX -> Desviacion: 48.8599 Duracion: 0.060679
+
+AGE_Position -> Desviacion: 41.9669 Duracion: 0.0531667
+
+AGE_OX -> Desviacion: 47.9373 Duracion: 0.073035
+
+AM_Full -> Desviacion: 14.6562 Duracion: 0.0333072
+
+AM_Sub -> Desviacion: 22.2977 Duracion: 0.0354501
+
+AM_Elite -> Desviacion: 28.1984 Duracion: 0.0358417
+

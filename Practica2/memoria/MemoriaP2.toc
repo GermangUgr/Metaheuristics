@@ -1,0 +1,25 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{3}{section.1}
+\contentsline {section}{\numberline {2}M\IeC {\'e}todos de resoluci\IeC {\'o}n del problema}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Funci\IeC {\'o}n objetivo}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Factorizaciones de la funci\IeC {\'o}n objetivo}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Generaci\IeC {\'o}n de soluciones aleatorias}{5}{subsection.2.3}
+\contentsline {section}{\numberline {3}Algoritmo de comparaci\IeC {\'o}n: Algoritmo Greedy}{6}{section.3}
+\contentsline {section}{\numberline {4}Algoritmo de B\IeC {\'u}squeda Local}{7}{section.4}
+\contentsline {section}{\numberline {5}Algoritmo de Enfriamiento simulado}{8}{section.5}
+\contentsline {section}{\numberline {6}Algoritmo de B\IeC {\'u}squeda Multiarranque B\IeC {\'a}sica}{9}{section.6}
+\contentsline {section}{\numberline {7}Algoritmo GRASP}{10}{section.7}
+\contentsline {section}{\numberline {8}Algoritmo de B\IeC {\'u}squeda Local Reiterada}{13}{section.8}
+\contentsline {section}{\numberline {9}Hibridaci\IeC {\'o}n ILS-ES}{14}{section.9}
+\contentsline {section}{\numberline {10}Procedimiento considerado para el desarrollo de la pr\IeC {\'a}ctica}{14}{section.10}
+\contentsline {section}{\numberline {11}Experimentos y An\IeC {\'a}lisis de resultados}{14}{section.11}
+\contentsline {subsection}{\numberline {11.1}Descripci\IeC {\'o}n de par\IeC {\'a}metros y casos considerados}{14}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}An\IeC {\'a}lisis de resultados del algoritmo Greedy}{15}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}An\IeC {\'a}lisis de resultados de la B\IeC {\'u}squeda Local}{15}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}An\IeC {\'a}lisis de resultados del Enfriamiento Simulado}{16}{subsection.11.4}
+\contentsline {subsection}{\numberline {11.5}An\IeC {\'a}lisis de resultados de la B\IeC {\'u}squeda Multiarranque B\IeC {\'a}sica}{17}{subsection.11.5}
+\contentsline {subsection}{\numberline {11.6}An\IeC {\'a}lisis de resultados GRASP}{17}{subsection.11.6}
+\contentsline {subsection}{\numberline {11.7}An\IeC {\'a}lisis de resultados de la B\IeC {\'u}squeda Local Reiterada}{18}{subsection.11.7}
+\contentsline {subsection}{\numberline {11.8}An\IeC {\'a}lisis de resultados del h\IeC {\'\i }brido ILS-LS}{18}{subsection.11.8}
+\contentsline {subsection}{\numberline {11.9}An\IeC {\'a}lisis de resultados generales}{19}{subsection.11.9}
+\contentsline {section}{\numberline {12}Manual de usuario}{20}{section.12}

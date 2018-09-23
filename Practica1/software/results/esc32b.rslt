@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/esc32b.dat // DIMENSION: 32 // OPTIMO: 168
+
+Greedy -> Desviacion: 90.4762 Duracion: 8.5984e-06
+
+LocalSearch1 -> Desviacion: 30 Duracion: 0.000660075
+
+LocalSearch2 -> Desviacion: 30 Duracion: 0.000398317
+
+AGG_Position -> Desviacion: 24.7619 Duracion: 0.0794259
+
+AGG_OX -> Desviacion: 29.0476 Duracion: 0.126851
+
+AGE_Position -> Desviacion: 40.4762 Duracion: 0.0977509
+
+AGE_OX -> Desviacion: 37.1429 Duracion: 0.137933
+
+AM_Full -> Desviacion: 9.04762 Duracion: 0.082888
+
+AM_Sub -> Desviacion: 12.8571 Duracion: 0.0809127
+
+AM_Elite -> Desviacion: 18.5714 Duracion: 0.0804605
+

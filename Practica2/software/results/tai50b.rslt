@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/tai50b.dat // DIMENSION: 50 // OPTIMO: 458821517
+
+Greedy -> Desviacion: 71.8325 & 1.5891e-05
+
+LocalSearch -> Desviacion: 7.09251 & 0.00379595
+
+SA -> Desviacion: 5.885 & 0.00192515
+
+GRASP -> Desviacion: 1.05046 & 0.143005
+
+ILS -> Desviacion: 1.08169 & 0.0808554
+
+BMS -> Desviacion: 1.37149 & 0.0975378
+
+ILSSA -> Desviacion: 1.54013 & 0.0431524

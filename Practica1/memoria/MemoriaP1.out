@@ -1,0 +1,35 @@
+\BOOKMARK [1][-]{section.1}{Descripci\363n del problema}{}% 1
+\BOOKMARK [1][-]{section.2}{M\351todos de resoluci\363n del problema}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Funci\363n objetivo}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Factorizaci\363n de la funci\363n objetivo}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Operador de mutaci\363n y generaci\363n de vecinos}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Generaci\363n de soluciones aleatorias}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Operador de mutaci\363n}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Operador de selecci\363n en los Algoritmos Gen\351ticos}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Operadores de cruce}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.7.1}{Operador de cruce basado en posiciones comunes}{subsection.2.7}% 10
+\BOOKMARK [3][-]{subsubsection.2.7.2}{Operador de cruce OX}{subsection.2.7}% 11
+\BOOKMARK [1][-]{section.3}{Algoritmo de B\372squeda Local}{}% 12
+\BOOKMARK [1][-]{section.4}{Algoritmos Gen\351ticos Generacionales}{}% 13
+\BOOKMARK [1][-]{section.5}{Algoritmos Gen\351ticos Estacionarios}{}% 14
+\BOOKMARK [1][-]{section.6}{Algoritmos Mem\351ticos}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Algoritmo Mem\351tico de mejora completa \(AM - \(10, 1.0\)\)}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Algoritmo Mem\351tico de mejora parcial aleatoria \(AM - \(10, 0.1\)\)}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.3}{Algoritmo Mem\351tico de mejora elitista \(AM - \(10, 0.1 mej\)\)}{section.6}% 18
+\BOOKMARK [1][-]{section.7}{Algoritmo de comparaci\363n: Algoritmo Greedy}{}% 19
+\BOOKMARK [1][-]{section.8}{Procedimiento considerado para el desarrollo de la pr\341ctica}{}% 20
+\BOOKMARK [1][-]{section.9}{Experimentos y An\341lisis de resultados}{}% 21
+\BOOKMARK [2][-]{subsection.9.1}{Descripci\363n de par\341metros y casos considerados}{section.9}% 22
+\BOOKMARK [2][-]{subsection.9.2}{An\341lisis de resultados del algoritmo Greedy}{section.9}% 23
+\BOOKMARK [2][-]{subsection.9.3}{An\341lisis de resultados de la B\372squeda Local}{section.9}% 24
+\BOOKMARK [2][-]{subsection.9.4}{An\341lisis de resultados del Algoritmo Gen\351tico Generacional con cruce por posici\363n}{section.9}% 25
+\BOOKMARK [2][-]{subsection.9.5}{An\341lisis de resultados del Algoritmo Gen\351tico Generacional con cruce OX}{section.9}% 26
+\BOOKMARK [2][-]{subsection.9.6}{An\341lisis de resultados del Algoritmo Gen\351tico Estacionario con cruce por posici\363n}{section.9}% 27
+\BOOKMARK [2][-]{subsection.9.7}{An\341lisis de resultados del Algoritmo Gen\351tico Estacionario con cruce OX}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.8}{An\341lisis de los resultados de los Algoritmos Mem\351ticos}{section.9}% 29
+\BOOKMARK [3][-]{subsubsection.9.8.1}{An\341lisis de resultados}{subsection.9.8}% 30
+\BOOKMARK [3][-]{subsubsection.9.8.2}{Tabla de resultados del Algoritmo Mem\351tico con mejora completa}{subsection.9.8}% 31
+\BOOKMARK [3][-]{subsubsection.9.8.3}{Tabla de resultados del Algoritmo Mem\351tico con mejora parcial}{subsection.9.8}% 32
+\BOOKMARK [3][-]{subsubsection.9.8.4}{Tabla de resultados del Algoritmo Mem\351tico con mejora elitista}{subsection.9.8}% 33
+\BOOKMARK [2][-]{subsection.9.9}{An\341lisis de resultados generales}{section.9}% 34
+\BOOKMARK [1][-]{section.10}{Manual de usuario}{}% 35

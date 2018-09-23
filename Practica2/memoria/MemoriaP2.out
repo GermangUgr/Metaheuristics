@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Descripci\363n del problema}{}% 1
+\BOOKMARK [1][-]{section.2}{M\351todos de resoluci\363n del problema}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Funci\363n objetivo}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Factorizaciones de la funci\363n objetivo}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Generaci\363n de soluciones aleatorias}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Algoritmo de comparaci\363n: Algoritmo Greedy}{}% 6
+\BOOKMARK [1][-]{section.4}{Algoritmo de B\372squeda Local}{}% 7
+\BOOKMARK [1][-]{section.5}{Algoritmo de Enfriamiento simulado}{}% 8
+\BOOKMARK [1][-]{section.6}{Algoritmo de B\372squeda Multiarranque B\341sica}{}% 9
+\BOOKMARK [1][-]{section.7}{Algoritmo GRASP}{}% 10
+\BOOKMARK [1][-]{section.8}{Algoritmo de B\372squeda Local Reiterada}{}% 11
+\BOOKMARK [1][-]{section.9}{Hibridaci\363n ILS-ES}{}% 12
+\BOOKMARK [1][-]{section.10}{Procedimiento considerado para el desarrollo de la pr\341ctica}{}% 13
+\BOOKMARK [1][-]{section.11}{Experimentos y An\341lisis de resultados}{}% 14
+\BOOKMARK [2][-]{subsection.11.1}{Descripci\363n de par\341metros y casos considerados}{section.11}% 15
+\BOOKMARK [2][-]{subsection.11.2}{An\341lisis de resultados del algoritmo Greedy}{section.11}% 16
+\BOOKMARK [2][-]{subsection.11.3}{An\341lisis de resultados de la B\372squeda Local}{section.11}% 17
+\BOOKMARK [2][-]{subsection.11.4}{An\341lisis de resultados del Enfriamiento Simulado}{section.11}% 18
+\BOOKMARK [2][-]{subsection.11.5}{An\341lisis de resultados de la B\372squeda Multiarranque B\341sica}{section.11}% 19
+\BOOKMARK [2][-]{subsection.11.6}{An\341lisis de resultados GRASP}{section.11}% 20
+\BOOKMARK [2][-]{subsection.11.7}{An\341lisis de resultados de la B\372squeda Local Reiterada}{section.11}% 21
+\BOOKMARK [2][-]{subsection.11.8}{An\341lisis de resultados del h\355brido ILS-LS}{section.11}% 22
+\BOOKMARK [2][-]{subsection.11.9}{An\341lisis de resultados generales}{section.11}% 23
+\BOOKMARK [1][-]{section.12}{Manual de usuario}{}% 24

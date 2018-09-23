@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/sko100a.dat // DIMENSION: 100 // OPTIMO: 152002
+
+Greedy -> Desviacion: 13.2327 & 5.16758e-05
+
+LocalSearch -> Desviacion: 2.10892 & 0.0355164
+
+SA -> Desviacion: 1.78234 & 0.0138969
+
+GRASP -> Desviacion: 0.970514 & 1.5423
+
+ILS -> Desviacion: 0.491046 & 0.807725
+
+BMS -> Desviacion: 0.973671 & 0.952344
+
+ILSSA -> Desviacion: 0.74578 & 0.285802

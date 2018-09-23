@@ -1,0 +1,60 @@
+BIN = bin
+SRC = src
+OBJ = obj
+INCLUDE = includes
+COMPILER = -std=c++0x
+
+CXX = g++
+
+all: $(BIN)/mainLS $(BIN)/mainAGGPos $(BIN)/mainAGGOX $(BIN)/mainGreedy
+
+LS: $(BIN)/mainLS
+AGGPos: $(BIN)/mainAGGPos
+AGGOX: $(BIN)/mainAGGOX
+Greedy: $(BIN)/mainGreedy
+
+###### Compilacion de los main ######
+$(BIN)/mainLS: $(OBJ)/mainLS.o $(OBJ)/QAP.o
+	@$(CXX) -o $(BIN)/mainLS $(OBJ)/mainLS.o $(OBJ)/QAP.o
+	@echo "Compilando mainLS..."
+
+$(OBJ)/mainLS.o: $(SRC)/mainLS.cpp
+	@$(CXX) -c -o $(OBJ)/mainLS.o $(SRC)/mainLS.cpp -I$(INCLUDE) $(COMPILER)
+	@echo "Compilando código objeto mainLS..."
+
+$(BIN)/mainGreedy: $(OBJ)/mainGreedy.o $(OBJ)/QAP.o
+	@$(CXX) -o $(BIN)/mainGreedy $(OBJ)/mainGreedy.o $(OBJ)/QAP.o
+	@echo "Compilando mainGreedy..."
+
+$(OBJ)/mainGreedy.o: $(SRC)/mainGreedy.cpp
+	@$(CXX) -c -o $(OBJ)/mainGreedy.o $(SRC)/mainGreedy.cpp -I$(INCLUDE) $(COMPILER)
+	@echo "Compilando código objeto mainGreedy..."
+
+$(BIN)/mainAGGPos: $(OBJ)/mainAGGPos.o $(OBJ)/QAP.o
+	@$(CXX) -o $(BIN)/mainAGGPos $(OBJ)/mainAGGPos.o $(OBJ)/QAP.o
+	@echo "Compilando mainAGGPos..."
+
+$(OBJ)/mainAGGPos.o: $(SRC)/mainAGGPos.cpp
+	@$(CXX) -c -o $(OBJ)/mainAGGPos.o $(SRC)/mainAGGPos.cpp -I$(INCLUDE) $(COMPILER)
+	@echo "Compilando código objeto mainAGGPos..."
+
+$(BIN)/mainAGGOX: $(OBJ)/mainAGGOX.o $(OBJ)/QAP.o
+	@$(CXX) -o $(BIN)/mainAGGOX $(OBJ)/mainAGGOX.o $(OBJ)/QAP.o
+	@echo "Compilando AGGOX..."
+
+$(OBJ)/mainAGGOX.o: $(SRC)/mainAGGOX.cpp
+	@$(CXX) -c -o $(OBJ)/mainAGGOX.o $(SRC)/mainAGGOX.cpp -I$(INCLUDE) $(COMPILER)
+	@echo "Compilando código objeto AGGOX..."
+
+###### Compilacion de los main ######
+
+
+###### Compilacion de los main ######
+
+$(OBJ)/QAP.o: $(SRC)/QAP.cpp $(SRC)/Greedy.cpp
+	@$(CXX) -c -o $(OBJ)/QAP.o $(SRC)/QAP.cpp $(SRC)/Greedy.cpp -I$(INCLUDE) $(COMPILER)
+	@echo "Compilando código objeto QAP..."
+
+clean:
+	@echo "Eliminando ejecutables y ficheros objeto..."
+	@rm -f $(OBJ)/* $(BIN)/*

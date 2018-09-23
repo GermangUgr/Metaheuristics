@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/sko100e.dat // DIMENSION: 100 // OPTIMO: 149150
+
+Greedy -> Desviacion: 13.2511 Duracion: 5.65506e-05
+
+LocalSearch1 -> Desviacion: 1.81026 Duracion: 0.0305555
+
+LocalSearch2 -> Desviacion: 1.81026 Duracion: 0.0257491
+
+AGG_Position -> Desviacion: 3.16755 Duracion: 0.621933
+
+AGG_OX -> Desviacion: 3.83909 Duracion: 0.884157
+
+AGE_Position -> Desviacion: 3.7361 Duracion: 0.633923
+
+AGE_OX -> Desviacion: 3.79511 Duracion: 0.887612
+
+AM_Full -> Desviacion: 1.28622 Duracion: 0.99765
+
+AM_Sub -> Desviacion: 1.68823 Duracion: 0.763818
+
+AM_Elite -> Desviacion: 2.06423 Duracion: 0.762432
+

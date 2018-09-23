@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/kra30b.dat // DIMENSION: 30 // OPTIMO: 91420
+
+Greedy -> Desviacion: 29.6106 & 7.791e-06
+
+LocalSearch -> Desviacion: 5.88711 & 0.000631753
+
+SA -> Desviacion: 5.70116 & 0.00412578
+
+GRASP -> Desviacion: 2.26427 & 0.021867
+
+ILS -> Desviacion: 1.48108 & 0.0102531
+
+BMS -> Desviacion: 2.028 & 0.0136026
+
+ILSSA -> Desviacion: 1.21418 & 0.131531

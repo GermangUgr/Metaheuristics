@@ -1,0 +1,10 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n de la B\IeC {\'u}squeda por V\IeC {\'o}rtices}{3}{section.1}
+\contentsline {section}{\numberline {2}Experimentaci\IeC {\'o}n}{5}{section.2}
+\contentsline {section}{\numberline {3}Mejora del algoritmo: Combinaci\IeC {\'o}n con Ideology Algorithm}{7}{section.3}
+\contentsline {section}{\numberline {4}Mejoras consideradas para el algoritmo mem\IeC {\'e}tico}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}Reinicio por diferencia de tama\IeC {\~n}o de partidos}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Reinicio por estabilizaci\IeC {\'o}n del mejor individuo}{10}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Reinicio por convergencia de la poblaci\IeC {\'o}n}{10}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Conclusi\IeC {\'o}n}{10}{subsection.4.4}
+\contentsline {section}{\numberline {5}Anexo 1: Funciones empleadas}{11}{section.5}

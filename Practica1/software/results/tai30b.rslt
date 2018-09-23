@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/tai30b.dat // DIMENSION: 30 // OPTIMO: 637117113
+
+Greedy -> Desviacion: 117.729 Duracion: 6.481e-06
+
+LocalSearch1 -> Desviacion: 18.0639 Duracion: 0.000688033
+
+LocalSearch2 -> Desviacion: 18.0639 Duracion: 0.000527111
+
+AGG_Position -> Desviacion: 9.14741 Duracion: 0.0661094
+
+AGG_OX -> Desviacion: 9.72169 Duracion: 0.101918
+
+AGE_Position -> Desviacion: 17.1822 Duracion: 0.0839809
+
+AGE_OX -> Desviacion: 11.2028 Duracion: 0.115858
+
+AM_Full -> Desviacion: 1.92832 Duracion: 0.0778823
+
+AM_Sub -> Desviacion: 4.35223 Duracion: 0.0701762
+
+AM_Elite -> Desviacion: 5.88562 Duracion: 0.0698844
+

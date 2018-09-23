@@ -1,0 +1,22 @@
+NOMBRE DEL ARCHIVO: data/nug25.dat // DIMENSION: 25 // OPTIMO: 3744
+
+Greedy -> Desviacion: 18.5363 Duracion: 4.9032e-06
+
+LocalSearch1 -> Desviacion: 5.26709 Duracion: 0.000325161
+
+LocalSearch2 -> Desviacion: 5.26709 Duracion: 0.000213978
+
+AGG_Position -> Desviacion: 3.84615 Duracion: 0.0510617
+
+AGG_OX -> Desviacion: 3.57906 Duracion: 0.0806418
+
+AGE_Position -> Desviacion: 4.97863 Duracion: 0.0681879
+
+AGE_OX -> Desviacion: 4.2735 Duracion: 0.0931772
+
+AM_Full -> Desviacion: 0.619658 Duracion: 0.0500775
+
+AM_Sub -> Desviacion: 0.929487 Duracion: 0.0506907
+
+AM_Elite -> Desviacion: 2.5 Duracion: 0.0506619
+

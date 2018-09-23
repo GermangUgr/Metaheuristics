@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Descripci\363n de la B\372squeda por V\363rtices}{}% 1
+\BOOKMARK [1][-]{section.2}{Experimentaci\363n}{}% 2
+\BOOKMARK [1][-]{section.3}{Mejora del algoritmo: Combinaci\363n con Ideology Algorithm}{}% 3
+\BOOKMARK [1][-]{section.4}{Mejoras consideradas para el algoritmo mem\351tico}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Reinicio por diferencia de tama\361o de partidos}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Reinicio por estabilizaci\363n del mejor individuo}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Reinicio por convergencia de la poblaci\363n}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Conclusi\363n}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Anexo 1: Funciones empleadas}{}% 9

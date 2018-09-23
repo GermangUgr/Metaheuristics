@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/chr22a.dat // DIMENSION: 22 // OPTIMO: 6156
+
+Greedy -> Desviacion: 119.916 & 5.443e-06
+
+LocalSearch -> Desviacion: 13.9766 & 0.00023816
+
+SA -> Desviacion: 14.3665 & 0.00300597
+
+GRASP -> Desviacion: 6.66017 & 0.00853505
+
+ILS -> Desviacion: 6.62118 & 0.00414922
+
+BMS -> Desviacion: 6.36777 & 0.00492845
+
+ILSSA -> Desviacion: 6.13385 & 0.0376561

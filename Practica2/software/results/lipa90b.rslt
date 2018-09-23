@@ -1,0 +1,15 @@
+NOMBRE DEL ARCHIVO: data/lipa90b.dat // DIMENSION: 90 // OPTIMO: 12490441
+
+Greedy -> Desviacion: 29.0592 & 4.28166e-05
+
+LocalSearch -> Desviacion: 21.5846 & 0.026272
+
+SA -> Desviacion: 22.3519 & 0.00557769
+
+GRASP -> Desviacion: 21.131 & 1.04419
+
+ILS -> Desviacion: 21.104 & 0.577296
+
+BMS -> Desviacion: 21.207 & 0.655168
+
+ILSSA -> Desviacion: 21.5952 & 0.154217
